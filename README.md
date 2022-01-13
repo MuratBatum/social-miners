@@ -1,1 +1,1 @@
-# social-miners
+# Social Miners App for MacOS & Windows
